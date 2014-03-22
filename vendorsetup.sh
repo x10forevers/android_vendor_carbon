@@ -74,3 +74,7 @@ add_lunch_combo carbon_xt897c-userdebug
 add_lunch_combo carbon_xt907-userdebug
 add_lunch_combo carbon_xt925-userdebug
 add_lunch_combo carbon_xt926-userdebug
+# New Device Addition
+add_lunch_combo carbon_huashan-userdebug
+add_lunch_combo carbon_pollux-userdebug
+add_lunch_combo carbon_dogo-userdebug
